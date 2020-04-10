@@ -1,0 +1,17 @@
+# Material Count: 4
+
+newmtl PlanksInside
+Kd 1.00000 1.00000 1.00000
+d 1.000000
+
+newmtl PlanksSides
+Kd 1.00000 1.00000 1.00000
+d 1.000000
+
+newmtl PlanksEnd
+Kd 1.00000 1.00000 1.00000
+d 1.000000
+
+newmtl RoofTile
+Kd 1.00000 1.00000 1.00000
+d 1.000000

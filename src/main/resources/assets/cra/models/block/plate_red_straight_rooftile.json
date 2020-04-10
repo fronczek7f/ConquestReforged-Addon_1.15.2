@@ -1,0 +1,7 @@
+{
+	"loader": "forge:obj",
+	"ambientToFullbright": true,
+	"flip-v": false,
+	"detectCullableFaces": false,
+	"model": "cra:models/block/rooftile_straight.obj"
+}

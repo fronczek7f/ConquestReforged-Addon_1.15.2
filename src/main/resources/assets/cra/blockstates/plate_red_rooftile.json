@@ -1,0 +1,53 @@
+{
+	"variants": {
+        "facing=west,half=bottom,shape=straight":  { "model": "cra:block/plate_red_straight_rooftile", "y": 270 },
+        "facing=south,half=bottom,shape=straight": { "model": "cra:block/plate_red_straight_rooftile", "y": 180 },
+		"facing=east,half=bottom,shape=straight":  { "model": "cra:block/plate_red_straight_rooftile", "y": 90 },
+        "facing=north,half=bottom,shape=straight": { "model": "cra:block/plate_red_straight_rooftile" },
+		
+        "facing=west,half=bottom,shape=outer_right":  { "model": "cra:block/plate_red_outer_rooftile" },
+        "facing=south,half=bottom,shape=outer_right": { "model": "cra:block/plate_red_outer_rooftile", "y": 270 },
+		"facing=east,half=bottom,shape=outer_right":  { "model": "cra:block/plate_red_outer_rooftile", "y": 180 },
+        "facing=north,half=bottom,shape=outer_right": { "model": "cra:block/plate_red_outer_rooftile", "y": 90 },
+		
+		"facing=west,half=bottom,shape=outer_left":  { "model": "cra:block/plate_red_outer_rooftile", "y": 270 },
+        "facing=south,half=bottom,shape=outer_left": { "model": "cra:block/plate_red_outer_rooftile", "y": 180 },
+        "facing=east,half=bottom,shape=outer_left":  { "model": "cra:block/plate_red_outer_rooftile", "y": 90 },
+        "facing=north,half=bottom,shape=outer_left": { "model": "cra:block/plate_red_outer_rooftile" },
+		
+        "facing=west,half=bottom,shape=inner_right":  { "model": "cra:block/plate_red_inner_rooftile" },
+        "facing=south,half=bottom,shape=inner_right": { "model": "cra:block/plate_red_inner_rooftile", "y": 270 },
+		"facing=east,half=bottom,shape=inner_right":  { "model": "cra:block/plate_red_inner_rooftile", "y": 180 },
+        "facing=north,half=bottom,shape=inner_right": { "model": "cra:block/plate_red_inner_rooftile", "y": 90 },
+		
+        "facing=west,half=bottom,shape=inner_left":  { "model": "cra:block/plate_red_inner_rooftile", "y": 270 },
+        "facing=south,half=bottom,shape=inner_left": { "model": "cra:block/plate_red_inner_rooftile", "y": 180 },
+		"facing=east,half=bottom,shape=inner_left":  { "model": "cra:block/plate_red_inner_rooftile", "y": 90 },
+        "facing=north,half=bottom,shape=inner_left": { "model": "cra:block/plate_red_inner_rooftile" },
+		
+        "facing=west,half=top,shape=straight":  { "model": "cra:block/plate_red_straight_rooftile_filled", "y": 270 },
+        "facing=south,half=top,shape=straight": { "model": "cra:block/plate_red_straight_rooftile_filled", "y": 180 },
+		"facing=east,half=top,shape=straight":  { "model": "cra:block/plate_red_straight_rooftile_filled", "y": 90 },
+        "facing=north,half=top,shape=straight": { "model": "cra:block/plate_red_straight_rooftile_filled" },
+		
+        "facing=west,half=top,shape=outer_right":  { "model": "cra:block/plate_red_outer_rooftile_filled" },
+        "facing=south,half=top,shape=outer_right": { "model": "cra:block/plate_red_outer_rooftile_filled", "y": 270 },
+		"facing=east,half=top,shape=outer_right":  { "model": "cra:block/plate_red_outer_rooftile_filled", "y": 180 },
+        "facing=north,half=top,shape=outer_right": { "model": "cra:block/plate_red_outer_rooftile_filled", "y": 90 },
+		
+        "facing=west,half=top,shape=outer_left":  { "model": "cra:block/plate_red_outer_rooftile_filled", "y": 270 },
+        "facing=south,half=top,shape=outer_left": { "model": "cra:block/plate_red_outer_rooftile_filled", "y": 180 },
+		"facing=east,half=top,shape=outer_left":  { "model": "cra:block/plate_red_outer_rooftile_filled", "y": 90 },
+        "facing=north,half=top,shape=outer_left": { "model": "cra:block/plate_red_outer_rooftile_filled" },
+		
+        "facing=west,half=top,shape=inner_right":  { "model": "cra:block/plate_red_inner_rooftile_filled" },
+        "facing=south,half=top,shape=inner_right": { "model": "cra:block/plate_red_inner_rooftile_filled", "y": 270 },
+		"facing=east,half=top,shape=inner_right":  { "model": "cra:block/plate_red_inner_rooftile_filled", "y": 180 },
+        "facing=north,half=top,shape=inner_right": { "model": "cra:block/plate_red_inner_rooftile_filled", "y": 90 },
+		
+        "facing=west,half=top,shape=inner_left":  { "model": "cra:block/plate_red_inner_rooftile_filled", "y": 270 },
+        "facing=south,half=top,shape=inner_left": { "model": "cra:block/plate_red_inner_rooftile_filled", "y": 180 },
+		"facing=east,half=top,shape=inner_left":  { "model": "cra:block/plate_red_inner_rooftile_filled", "y": 90 },
+        "facing=north,half=top,shape=inner_left": { "model": "cra:block/plate_red_inner_rooftile_filled" }
+	}
+}

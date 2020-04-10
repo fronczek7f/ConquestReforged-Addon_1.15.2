@@ -1,0 +1,45 @@
+# Material Count: 4
+
+newmtl PlanksInside
+Ns 323.999994
+Kd 1.00000 1.00000 1.00000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd cra:block/planks_oakvertical
+
+newmtl PlanksSides
+Ns 323.999994
+Kd 1.00000 1.00000 1.00000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd cra:block/planks_oaklogslab
+
+newmtl PlanksEnd
+Ns 323.999994
+Kd 1.00000 1.00000 1.00000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd cra:block/planks_oaklog
+
+newmtl RoofTile
+Ns 323.999994
+Kd 1.00000 1.00000 1.00000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd cra:block/rooftile_platered
